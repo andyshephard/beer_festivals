@@ -9,25 +9,25 @@ A list of beer festivals in 2018:
 22-24 February 2018,The Old Truman Brewery - Brick Lane, London, UK   
 [Webpage](https://www.craftbeerrising.co.uk)
 
-- March
+## March
 
-- April
+## April
 
-- May
+## May
 
-- June
+## June
 
-- July
+## July
 
 ## August
 * London Craft Beer Festival   
 3rd - 5th August, Tobacco Dock, London, UK   
 [Webpage](https://londoncraftbeerfestival.co.uk)
 
-- September
+## September
 
-- October
+## October
 
-- November
+## November
 
-- December
+## December
