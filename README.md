@@ -4,7 +4,7 @@ A list of beer festivals in 2018:
 ## January
 
 
-## Febrauary
+## February
 * Craft Beer Rising 2018   
 22-24 February 2018,The Old Truman Brewery - Brick Lane, London, UK   
 [Webpage](https://www.craftbeerrising.co.uk)
