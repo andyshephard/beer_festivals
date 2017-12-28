@@ -11,7 +11,7 @@ A list of beer festivals in 2018:
 
 ## March
 * Barcelona Beer Festival 2018   
-16-18 March 2018, La Farga de l’Hospitalet, Barcelona, Spain
+16-18 March 2018, La Farga de l’Hospitalet, Barcelona, Spain   
 [Webpage](http://barcelonabeerfestival.com)
 
 ## April
