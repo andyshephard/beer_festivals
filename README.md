@@ -10,6 +10,9 @@ A list of beer festivals in 2018:
 [Webpage](https://www.craftbeerrising.co.uk)
 
 ## March
+* Barcelona Beer Festival 2018   
+16-18 March 2018, La Farga de l’Hospitalet, Barcelona, Spain
+[Webpage](http://barcelonabeerfestival.com)
 
 ## April
 
@@ -28,11 +31,11 @@ A list of beer festivals in 2018:
 
 ## August
 * London Craft Beer Festival   
-3-5 August, Tobacco Dock, London, UK   
+3-5 August 2018, Tobacco Dock, London, UK   
 [Webpage](https://londoncraftbeerfestival.co.uk)
 
 * Brewskival   
-24-26 August, Helsingborg, Sweden   
+24-26 August 2018, Helsingborg, Sweden   
 [Webpage](https://www.eventbrite.com/e/brewskival-2018-tickets-41108067336?aff=efbneb)
 
 ## September
